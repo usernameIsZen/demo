@@ -1,5 +1,8 @@
 git01.txt
 ssss
-
+<<<<<<< HEAD
+sssss
 aaassww
+=======
 sss
+>>>>>>> 64d6c7c5807465f8b24b19ed8606035ff552e0b0
